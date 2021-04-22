@@ -1,2 +1,2 @@
 # Portfolio_Website
-Data Science portfolio data science portfolio
+Dennis Gonzales' data science portfolio 
