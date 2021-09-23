@@ -1,6 +1,3 @@
-# Dennis_Portfolio
-Dennis Gonzales' data science portfolio 
-
 # Yelp Dataset Exploratory Data Analysis: Project Overview
 
 - Explore Yelp business dataset and manipulate data with NumPy and Pandas
