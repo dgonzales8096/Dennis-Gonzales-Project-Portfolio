@@ -4,4 +4,4 @@
 - Identify and explore features 
 - Add features as needed
 - Identify outliers
-- Map out business to better understand business location and Yelp reviews
+- Map out businesses to better understand business location and Yelp reviews
