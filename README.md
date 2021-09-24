@@ -1,4 +1,4 @@
-# [Exploratory Data Analysis: Yelp Dataset Project Overview](https://github.com/dgonzales8096/Dennis_Gonzales_Project_Portfolio)
+# [Exploratory Data Analysis: Yelp Dataset Project Overview](https://github.com/dgonzales8096/Dennis_Gonzales_Project_Portfolio/blob/main/Yelp%20EDA%20Project.ipynb)
 
 - Explore Yelp business dataset and manipulate data with NumPy and Pandas
 - Identify and explore features 
