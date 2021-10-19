@@ -14,4 +14,7 @@
 #### Univariate Machine Learning Model: Predicting Dog Direction Project Overview
 
 - Idealized from this study [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ffrontiersinzoology.biomedcentral.com%2Ftrack%2Fpdf%2F10.1186%2F1742-9994-10-80.pdf&clen=1493799&chunk=true) finding dogs' sensitivity to Earth's magnetic field.
+- This project focuses on predicting the direction my dog (Tooterfish) will be facing each time he uses the restroom based on collected data.
+- Features incude time of day, directional degree, weather condition, and temperature.
+- Tooterfish habitually uses the restroom in the same 15 square foot area in a park close to our apartment, therefore only one set of latitude and longitude will be considered.
 - Data is currently being collected for this project.
