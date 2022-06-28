@@ -1,0 +1,1239 @@
+Month,Time,Directional Degree,Direction,Poo/pee,Weather,Temp in F,Wind Direction,Wind Speed
+Oct,Midnight,337,N,Pee,Cloudy,67,NW,3
+Dec,Midnight,279,W,Pee,Clear Night,41,S,3
+Oct,Midnight,248,W,Pee,Clear Night,68,S,5
+Nov,Midnight,272,W,Pee,Night with Clouds,36,NE,3
+Dec,Midnight,313,NW,Pee,Night with Clouds,62,SE,24
+Mar,Midnight,222,SW,Pee,Night with Clouds,54,NW,6
+Oct,Midnight,347,N,Poo,Clear Night,68,S,5
+Nov,Midnight,307,NW,Pee,Night with Clouds,40,NNE,6
+Dec,Midnight,252,W,Poo,Night with Clouds,62,SE,24
+Oct,Midnight,8,N,Pee,Night with Clouds,55,SSE,7
+Nov,Midnight,341,N,Pee,Night with Clouds,44,SSE,7
+Sept,Midnight,236,SW,Pee,Clear Night,59,NE,3
+Feb,Midnight,22,NE,Pee,Night with Clouds,34,still,0
+Oct,Midnight,309,NW,Poo,Night with Clouds,55,SSE,7
+Nov,Midnight,263,W,Poo,Night with Clouds,40,NNE,6
+Feb,Midnight,111,SE,Poo,Night with Clouds,34,still,0
+Oct,Midnight,62,NE,Pee,Night with Clouds,68,NNE,12
+Oct,Midnight,215,SW,Pee,Night with Clouds,63,N,12
+Dec,Midnight,257,W,Pee,Night with Clouds,48,N,8
+Oct,Midnight,323,NW,Poo,Night with Clouds,73,N,9
+Oct,Midnight,311,NW,Pee,Night with Clouds,73,N,9
+Oct,Midnight,243,W,Pee,Night with Clouds,73,N,8
+Oct,Midnight,355,N,Pee,Clear Night,61,N,6
+Oct,Midnight,337,NW,Pee,Night with Clouds,58,SSE,5
+Nov,Midnight,322,NW,Pee,Night with Clouds,51,still,0
+Dec,Midnight,290,W,Pee,Night with Clouds,44,SSE,21
+Nov,Midnight,266,W,Pee,Clear Night,50,NE,3
+Dec,Midnight,147,SE,Pee,Night with Clouds,37,SW,6
+Dec,Midnight,219,SW,Pee,Night with Clouds,38,NNW,5
+Oct,Midnight,262,W,Poo,Night with Clouds,70,WSW,6
+Oct,Midnight,306,NW,Poo,Night with Clouds,58,SSE,5
+Sept,Midnight,250,W,Pee,Clear Night,70,SSE,10
+Oct,Midnight,246,W,Pee,Night with Clouds,70,WSW,6
+Nov,Midnight,4,N,Poo,Clear Night,50,NE,3
+Dec,Midnight,146,SE,Poo,Night with Clouds,37,SW,6
+Oct,Midnight,288,SW,Pee,Clear Night,66,still,0
+Oct,Midnight,360,N,Pee,Night with Clouds,60,WNW,15
+Sept,Midnight,285,W,Poo,Clear Night,70,SSE,10
+Dec,Midnight,310,NW,Pee,Night with Clouds,37,still,0
+Oct,Midnight,238,SW,Pee,Clear Night ,61,still,0
+Dec,Midnight,238,SW,Pee,Night with Clouds,55,SSW,5
+Oct,Midnight,313,NW,Poo,Night with Clouds,60,WNW,15
+Dec,Midnight,242,SW,Pee,Night with Clouds,55,still,0
+Sept,Midnight,284,W,Pee,Clear Night,64,NNE,5
+Oct,Midnight,339,N,Pee,Clear Night,55,E,7
+Dec,Midnight,314,NW,Pee,Night with Clouds,38,SSE,12
+Feb,Midnight,169,SE,Pee,Night with Clouds,34,NNE,5
+Oct,Midnight,311,NW,Poo,Clear Night,55,E,7
+Dec,Midnight,316,NW,Poo,Night with Clouds,55,still,0
+Dec,Midnight,269,W,Poo,Night with Clouds,38,SSE,12
+Nov,Midnight,329,NW,Pee,Night with Clouds,38,NNE,5
+Sept,Midnight,286,W,Poo,Clear Night,64,NNE,5
+Nov,Midnight,344,N,Pee,Clear Night,55,N,10
+Nov,Midnight,254,W,Pee,Night with Clouds,48,SE,14
+Oct,Midnight,246,SW,Pee,Night with Clouds,70,WSW,10
+Oct,Midnight,19,N,Pee,Clear Night,51,ENE,7
+Nov,Midnight,270,W,Pee,Night with Clouds,41,S,6
+Nov,Midnight,314,NW,Pee,Night with Clouds,58,N,12
+Nov,Midnight,302,NW,Pee,Clear Night,44,S,6
+Oct,Midnight,321,NW,Poo,Clear Night,51,ENE,7
+Nov,Midnight,296,NW,Poo,Clear Night,44,S,6
+Nov,Midnight,305,NW,Poo,Night with Clouds,58,N,12
+Nov,Midnight,31,NE,Pee,Night with Clouds,45,N,5
+Nov,Midnight,19,N,Pee,Night with Clouds,47,SSE,13
+Dec,Midnight,198,S,Pee,Night with Clouds,48,still,0
+Nov,Midnight,316,NW,Poo,Night with Clouds,45,N,5
+Oct,Midnight,23,N,Pee,Night with Clouds,64,SSW,8
+Oct,Midnight,38,NE,Pee,Night with Clouds,56,ENE,6
+Oct,Midnight,262,W,Pee,Night with Clouds,56,S,6
+Dec,Midnight,40,NE,Poo,Night with Clouds,48,still,0
+Nov,Midnight,250,W,Pee,Clear Night,39,NNE,6
+Nov,Midnight,317,NW,Poo,Clear Night,39,NNE,6
+Nov,Midnight,336,NW,Pee,Night with Clouds,42,SSW,3
+Oct,Midnight,240,S,Pee,Clear Night,68,NE,3
+Nov,Midnight,37,NE,Pee,Clear Night,38,S,3
+Nov,Midnight,305,NW,Poo,Night with Clouds,42,SSW,3
+Oct,Midnight,239,W,Pee,Clear Night,68,still,0
+Oct,Midnight,294,NW,Pee,Light Rain,66,SW,12
+Nov,Midnight,298,NW,Pee,Night with Clouds,37,ESE,8
+Oct,Midnight,295,W,Poo,Clear Night,68,still,0
+Oct,Midnight,307,NE,Poo,Light Rain,66,SW,12
+Nov,Midnight,264,W,Pee,Night with Clouds,47,still,0
+Nov,Midnight,265,W,Pee,Night with Clouds,41,NNE,7
+Nov,Midnight,252,W,Pee,Night with Clouds,41,SSE,5
+Nov,Midnight,312,NW,Poo,Night with Clouds,41,NNE,7
+Nov,Midnight,222,SW,Pee,Clear Night,48,ESE,13
+Nov,Midnight,298,NW,Pee,Night with Clouds,50,NE,3
+Nov,Midnight,292,W,Pee,Night with Clouds,50,NE,3
+Dec,Midnight,80,E,Pee,Night with Clouds,43,still,0
+Nov,Midnight,331,NW,Poo,Night with Clouds,50,NE,3
+Nov,Midnight,59,NE,Pee,Night with Clouds,63,N,10
+Oct,Midnight,32,N,Pee,Night with Clouds,67,N,8
+Nov,Midnight,328,NW,Pee,Night with Clouds,35,SE,7
+Oct,Midnight,357,N,Poo,Night with Clouds,67,N,8
+Nov,Midnight,347,N,Pee,Night with Clouds,50,ESE,6
+Nov,Midnight,308,NW,Poo,Night with Clouds,50,ESE,6
+May,Midnight,17,NE,Pee,Night with Clouds,58,SW,8
+May,Midnight,72,NE,Pee,Night with Clouds,60,S,14
+May,Midnight,148,SE,Poo,Night with Clouds,60,S,14
+May,Midnight,94,E,Pee,Clear Night,59,SSW,10
+May,Midnight,209,SW,Poo,Clear Night,59,SSW,10
+Apr,Midnight,93,E,Pee,Night with Clouds,44,SSE,7
+Apr,Midnight,85,E,Poo,Night with Clouds,44,SSE,7
+Mar,Midnight,129,SE,Pee,Night with Clouds,43,N,7
+Apr,Midnight,35,NE,Pee,Night with Clouds,58,WSW,8
+Apr,Midnight,51,NE,Poo,Night with Clouds,58,WSW,8
+Jan,Midnight,289,NW,Pee,Night with Clouds,32,N,10
+Feb,Midnight,229,SW,Pee,Night with Clouds,35,SE,10
+Mar,Midnight,297,NW,Pee,Night with Clouds,57,N,13
+Mar,Midnight,191,S,Poo,Night with Clouds,57,N,13
+May,Midnight,95,E,Pee,Night with Clouds,72,NNE,5
+May,Midnight,6,N,Poo,Night with Clouds,72,NNE,5
+Jan,Midnight,140,SE,Pee,Night with Clouds,27,NNE,3
+May,Midnight,35,NE,Pee,Night with Clouds,61,SSW,6
+May,Midnight,44,NE,Poo,Night with Clouds,61,SSW,6
+Mar,Midnight,107,SE,Pee,Raining,50,SSW,7
+Apr,Midnight,106,SE,Pee,Night with Clouds,56,still,0
+Apr,Midnight,0,N,Pee,Night with Clouds,51,NE,3
+May,Midnight,45,NE,Pee,Night with Clouds,51,S,10
+Jun,Midnight,324,NW,Pee,Night with Clouds,71,SE,14
+Feb,Midnight,127,SE,Pee,Night with Clouds,28,NNE,10
+Mar,Midnight,253,SW,Pee,Night with Clouds,49,N,8
+Mar,Midnight,119,SE,Pee,Clear Night,49,SE,3
+Apr,Midnight,280,W,Pee,Night with Clouds,74,NNE,18
+Apr,Midnight,70,NE,Pee,Night with Clouds,54,SW,6
+Apr,Midnight,175,S,Poo,Night with Clouds,51,NE,3
+Mar,Midnight,187,S,Pee,Night with Clouds,45,N,6
+May,Midnight,301,NW,Pee,Night with Clouds,56,W,5
+May,Midnight,54,NE,Pee,Clear Night,59,SSE,8
+Jun,Midnight,39,NE,Pee,Night with Clouds,77,still,0
+Mar,Midnight,231,SW,Poo,Raining,50,SSW,7
+Apr,Midnight,79,NE,Poo,Night with Clouds,74,NNE,18
+Apr,Midnight,101,SE,Poo,Night with Clouds,54,SW,6
+May,Midnight,295,NW,Poo,Night with Clouds,56,W,5
+Mar,Midnight,249,SW,Pee,Clear Night,26,ESE,6
+Mar,Midnight,153,SE,Poo,Clear Night,49,SE,3
+May,Midnight,193,SW,Poo,Clear Night,59,SSE,8
+Apr,Midnight,244,SW,Pee,Raining,54,SSW,12
+Apr,Midnight,90,E,Pee,Night with Clouds,53,SW,5
+Apr,Midnight,55,NE,Pee,Night with Clouds,42,E,6
+Mar,Midnight,220,SW,Poo,Clear Night,26,ESE,6
+Mar,Midnight,319,NW,Pee,Night with Clouds,60,N,14
+Apr,Midnight,37,NE,Pee,Night with Clouds,39,SSE,18
+May,Midnight,258,SW,Pee,Raining,60,NNE,6
+Apr,Midnight,51,NE,Poo,Night with Clouds,53,SW,5
+Apr,Midnight,181,S,Poo,Night with Clouds,42,E,6
+Mar,Midnight,117,SE,Pee,Clear Night,50,S,3
+Mar,Midnight,202,SW,Pee,Night with Clouds,49,NNE,6
+Mar,Midnight,8,N,Pee,Night with Clouds,37,still,0
+Mar,Midnight,236,SW,Poo,Night with Clouds,60,N,14
+Mar,Midnight,118,SE,Poo,Night with Clouds,49,NNE,6
+Mar,Midnight,35,NE,Poo,Night with Clouds,37,still,0
+May,Midnight,142,SE,Poo,Raining,60,NNE,6
+Apr,Midnight,356,N,Pee,Raining,53,SE,16
+May,Midnight,292,NW,Pee,Night with Clouds,67,still,0
+May,Midnight,277,W,Pee,Night with Clouds,68,N,5
+May,Midnight,265,W,Pee,Night with Clouds,76,N,6
+Mar,Midnight,221,SW,Pee,Night with Clouds,50,SW,13
+Apr,Midnight,125,SE,Pee,Night with Clouds,49,NNW,5
+Apr,Midnight,92,E,Pee,Clear Night,41,SW,5
+Jun,Midnight,36,NE,Pee,Night with Clouds,76,SW,8
+Apr,Midnight,67,NE,Poo,Clear Night,41,SW,5
+Mar,Midnight,269,W,Poo,Night with Clouds,50,SW,13
+May,Midnight,245,SW,Poo,Night with Clouds,68,N,5
+Mar,Midnight,183,S,Pee,Night with Clouds,40,NNE,3
+Mar,Midnight,188,S,Pee,Night with Clouds,31,SSE,10
+Apr,Midnight,176,S,Poo,Night with Clouds,49,NNW,5
+Apr,Midnight,212,SW,Pee,Night with Clouds,42,E,9
+Apr,Midnight,124,SE,Pee,Night with Clouds,44,WSW,9
+May,Midnight,219,SW,Pee,Night with Clouds,53,S,9
+Mar,Midnight,228,SW,Poo,Night with Clouds,31,SSE,10
+Apr,Midnight,290,NW,Pee,Clear Night,41,SE,6
+May,Midnight,138,SE,Pee,Night with Clouds,58,S,9
+Feb,Midnight,116,SE,Poo,Clear Night,36,N,5
+Apr,Midnight,144,SE,Poo,Night with Clouds,42,E,9
+Apr,Midnight,273,W,Poo,Night with Clouds,44,WSW,9
+Feb,Midnight,41,NE,Pee,Clear Night,36,N,5
+Apr,Midnight,8,N,Pee,Raining,50,W,9
+Apr,Midnight,334,NW,Pee,Night with Clouds,47,NE,6
+May,Midnight,106,SE,Poo,Night with Clouds,53,S,9
+May,Midnight,210,SW,Poo,Night with Clouds,58,S,9
+May,Midnight,108,SE,Pee,Clear Night,44,SSE,10
+May,Midnight,349,NW,Pee,Raining,64,SW,9
+May,Midnight,279,W,Pee,Raining,59,SSW,9
+Apr,Midnight,278,W,Poo,Night with Clouds,40,SSE,12
+Apr,Midnight,300,NW,Poo,Raining,50,W,9
+Apr,Midnight,246,SW,Poo,Night with Clouds,47,NE,6
+May,Midnight,250,SW,Poo,Clear Night,44,SSE,10
+Apr,Midnight,270,W,Pee,Night with Clouds,40,SSE,12
+May,Midnight,217,SW,Poo,Raining,64,SW,9
+May,Midnight,342,NW,Poo,Raining,59,SSW,9
+Oct,Midnight,325,NW,Pee,Night with Clouds,60,S,8
+Mar,Midnight,53,NE,Pee,Night with Clouds,56,SSE,9
+Mar,Midnight,300,NW,Pee,Night with Clouds,57,N,10
+Apr,Midnight,356,N,Pee,Night with Clouds,50,N,10
+Apr,Midnight,270,W,Pee,Night with Clouds,53,still,0
+May,Midnight,0,N,Pee,Raining,58,SSW,3
+May,Midnight,291,NW,Pee,Sunny With Clouds,63,SE,10
+May,Midnight,218,SW,Poo,Raining,58,SSW,3
+May,Midnight,72,NE,Pee,Sunny With Clouds,61,still,0
+Apr,Midnight,227,SW,Poo,Night with Clouds,50,N,10
+Apr,Midnight,65,NE,Poo,Night with Clouds,53,still,0
+Feb,Midnight,263,W,Pee,Night with Clouds,38,still,0
+Apr,Midnight,74,NE,Pee,Night with Clouds,53,WSW,7
+Oct,Midnight,39,NE,Poo,Night with Clouds,60,S,8
+Jan,Midnight,192,SW,Pee,Night with Clouds,32,still,0
+Feb,Midnight,262,W,Pee,Clear Night,24,WSW,6
+Feb,Midnight,84,E,Poo,Night with Clouds,38,still,0
+Apr,Midnight,209,SW,Poo,Night with Clouds,53,WSW,7
+May,Midnight,159,SE,Pee,Raining,53,SW,12
+May,Midnight,288,NW,Pee,Clear Night,57,NNE,8
+May,Midnight,81,E,Poo,Clear Night,57,NNE,8
+May,Morning,166,SE,Poo,Raining,53,SW,12
+Feb,Morning,190,S,Pee,Night with Clouds,34,SSW,5
+Apr,Morning,98,E,Pee,Night with Clouds,50,ESE,9
+Dec,Morning,216,SW,Pee,Night with Clouds,51,N,6
+Feb,Morning,110,E,Poo,Night with Clouds,34,SSW,5
+Apr,Morning,343,NW,Poo,Night with Clouds,50,ESE,9
+Dec,Morning,250,W,Pee,Clear Night,30,S,5
+Mar,Morning,16,NE,Pee,Night with Clouds,50,NE,5
+Dec,Morning,139,SE,Poo,Night with Clouds,51,N,6
+Feb,Morning,93,E,Pee,Night with Clouds,30,WSW,5
+Feb,Morning,323,NW,Pee,Night with Clouds,61,NNE,13
+Apr,Morning,280,W,Pee,Night with Clouds,48,still,0
+Feb,Morning,64,NE,Poo,Night with Clouds,64,NNE,13
+Dec,Morning,315,NW,Pee,Night with Clouds,41,NNE,5
+Jan,Morning,240,SW,Pee,Clear Night,57,N,6
+Feb,Morning,113,SE,Pee,Clear Night,23,S,8
+Feb,Morning,21,N,Poo,Night with Clouds,30,WSW,5
+Feb,Morning,210,SW,Poo,Clear Night,23,S,8
+Apr,Morning,54,NE,Poo,Night with Clouds,48,still,0
+Dec,Morning,281,W,Poo,Night with Clouds,41,NNE,5
+Mar,Morning,113,SE,Poo,Raining,43,W,8
+Jan,Morning,144,SE,Pee,Night with Clouds,35,NNE,16
+May,Morning,218,SW,Pee,Night with Clouds,69,N,10
+Jan,Morning,135,SE,Pee,Night with Clouds,32,still,0
+Jan,Morning,234,SW,Poo,Night with Clouds,32,still,0
+Jan,Morning,144,SE,Pee,Raining,59,NNE,8
+Feb,Morning,69,NE,Pee,Clear Night,34,SSE,9
+Feb,Morning,94,E,Pee,Clear Night,37,N,6
+Feb,Morning,247,SW,Pee,Night with Clouds,49,N,8
+Feb,Morning,241,SW,Pee,Night with Clouds,67,SSW,13
+Mar,Morning,214,SW,Pee,Night with Clouds,37,still,0
+Mar,Morning,47,NE,Pee,Clear Night,34,NE,5
+May,Morning,306,NW,Pee,Sunny With Clouds,68,still,0
+Jan,Morning,96,E,Pee,Night with Clouds,35,E,10
+Jan,Morning,164,S,Poo,Raining,59,NNE,8
+Mar,Morning,136,SE,Poo,Clear Night,34,NE,5
+Jan,Morning,151,SE,Pee,Night with Clouds,34,SSE,10
+Mar,Morning,178,S,Pee,Night with Clouds,40,ESE,8
+Jan,Morning,142,SE,Poo,Night with Clouds,35,E,10
+Feb,Morning,190,S,Poo,Clear Night,34,SSE,9
+Feb,Morning,231,SW,Poo,Night with Clouds,37,SSW,13
+Mar,Morning,133,SE,Poo,Night with Clouds,37,still,0
+Jan,Morning,22,N,Pee,Night with Clouds,34,still,0
+Jan,Morning,109,E,Pee,Clear Night,19,ESE,7
+Mar,Morning,342,N,Pee,Clear Night,43,still,0
+Mar,Morning,289,W,Pee,Sunny with Clouds,63,N,10
+Mar,Morning,181,S,Poo,Night with Clouds,40,ESE,8
+Nov,Morning,1,N,Pee,Night with Clouds,34,ESE,8
+Jan,Morning,180,S,Pee,Night with Clouds,25,NE,12
+Feb,Morning,153,SE,Pee,Night with Clouds,52,N,12
+Feb,Morning,46,NE,Poo,Clear Night,37,N,6
+Mar,Morning,55,NE,Poo,Clear Night,43,still,0
+Dec,Morning,259,W,Pee,Raining,49,still,0
+Jan,Morning,124,SE,Pee,Snowing,34,SSW,18
+Feb,Morning,174,S,Pee,Night with Clouds,33,SSW,5
+Feb,Morning,96,E,Pee,Clear Night,30,SSW,6
+Feb,Morning,68,NE,Pee,Clear Night,30,NW,5
+Mar,Morning,256,W,Pee,Sunny,36,still,0
+Mar,Morning,235,SW,Pee,Raining,46,ESE,25
+Jan,Morning,183,S,Poo,Night with Clouds,25,NE,12
+Jan,Morning,68,NE,Poo,Night with Clouds,34,still,0
+Jan,Morning,161,S,Poo,Clear Night,19,ESE,7
+Feb,Morning,154,SE,Poo,Night with Clouds,52,N,12
+Mar,Morning,287,W,Poo,Sunny,36,still,0
+Feb,Morning,231,SW,Pee,Clear Night,39,N,6
+Feb,Morning,52,NE,Pee,Clear Night,36,ENE,3
+Mar,Morning,216,SW,Pee,Clear Night,34,still,0
+Feb,Morning,68,NE,Poo,Clear Night,30,NW,5
+Mar,Morning,231,SW,Poo,Clear Night,34,still,0
+Mar,Morning,172,S,Poo,Raining,46,ESE,25
+Jan,Morning,124,SE,Pee,Night with Clouds,23,SW,9
+Feb,Morning,244,SW,Pee,Night with Clouds,34,SSW,3
+Mar,Morning,138,SE,Pee,Sunny,37,N,6
+Dec,Morning,261,W,Poo,Raining,49,still,0
+Feb,Morning,168,S,Poo,Clear Night,36,ENE,3
+Mar,Morning,110,E,Poo,Sunny,37,N,6
+Jan,Morning,204,SW,Pee,Night with Clouds,33,N,12
+Feb,Morning,279,W,Pee,Clear Night,39,SSE,8
+Mar,Morning,297,NW,Pee,Night with Clouds,29,SSW,12
+Feb,Morning,204,SW,Poo,Raining,45,still,0
+Feb,Morning,254,W,Poo,Clear Night,39,SSE,8
+Jan,Morning,136,SE,Pee,Night with Clouds,38,SSE,10
+Feb,Morning,192,S,Pee,Raining,45,still,0
+Feb,Morning,251,W,Pee,Raining,57,N,8
+Jan,Morning,145,SE,Pee,Night with Clouds,34,N,12
+Jan,Morning,121,SE,Pee,Raining,45,still,0
+Jan,Morning,223,SW,Pee,Clear Night,25,SSW,7
+Jan,Morning,194,SW,Poo,Night with Clouds,38,SSE,10
+Feb,Morning,56,NE,Poo,Raining,57,N,8
+Feb,Morning,151,SE,Poo,Night with Clouds,34,SSW,3
+Mar,Morning,150,SE,Poo,Night with Clouds,29,SSW,12
+Dec,Morning,244,SW,Pee,Night with Clouds,49,SSW,13
+Jan,Morning,298,NW,Poo,Night with Clouds,34,N,12
+Jan,Morning,200,S,Poo,Raining,45,still,0
+Mar,Morning,128,SE,Pee,Cloudy,45,SSE,14
+May,Morning,88,E,Pee,Night with Clouds,54,NNE,6
+Dec,Morning,329,NW,Poo,Night with Clouds,49,SSW,13
+Jan,Morning,268,W,Poo,Clear Night,25,SSW,7
+Jan,Morning,123,SE,Pee,Raining,41,still,0
+May,Morning,133,SE,Pee,Sunny,63,N,6
+Mar,Morning,194,S,Poo,Cloudy,45,SSE,14
+May,Morning,200,SW,Poo,Night with Clouds,54,NNE,6
+Feb,Morning,119,SE,Pee,Night with Clouds,28,ESE,12
+Feb,Morning,335,NW,Pee,Cloudy,34,N,7
+Feb,Morning,158,S,Poo,Cloudy,34,N,7
+May,Morning,117,SE,Poo,Sunny,63,N,6
+Mar,Morning,282,W,Poo,Cloudy,45,SSE,14
+Dec,Morning,262,W,Pee,Night with Clouds,31,NE,3
+Jan,Morning,239,SW,Pee,Night with Clouds,37,N,3
+Mar,Morning,119,SE,Pee,Sunny with Clouds,52,S,14
+May,Morning,97,E,Pee,Sunny With Clouds,64,E,7
+Dec,Morning,307,NW,Poo,Night with Clouds,31,NE,3
+Jan,Morning,268,W,Poo,Night with Clouds,37,N,3
+Feb,Morning,355,N,Pee,Clear Night,23,WSW,5
+Apr,Morning,114,SE,Pee,Night with Clouds,52,S,18
+Apr,Morning,80,NE,Pee,Night with Clouds,55,SSW,9
+Apr,Morning,65,NE,Pee,Night with Clouds,47,SSW,3
+Feb,Morning,268,W,Pee,Raining,65,ESE,16
+Feb,Morning,203,SW,Poo,Clear Night,25,SW,8
+Mar,Morning,280,W,Poo,Sunny with Clouds,52,S,14
+Jan,Morning,153,SE,Pee,Night with Clouds,20,S,20
+Feb,Morning,218,SW,Pee,Clear Night,25,SW,8
+Feb,Morning,177,S,Pee,Snowing,36,SSW,10
+Feb,Morning,321,NW,Pee,Clear Night,26,SW,8
+Feb,Morning,13,N,Pee,Cloudy,52,N,8
+Jan,Morning,144,SE,Pee,Night with Clouds,17,SW,10
+Nov,Morning,282,W,Pee,Clear Night,33,still,0
+Jan,Morning,225,SW,Pee,Clear Night,27,SSE,3
+Dec,Morning,32,NE,Pee,Night with Clouds,41,still,0
+Jan,Morning,230,SW,Pee,Night with Clouds,31,SE,14
+Nov,Morning,309,NW,Poo,Clear Night,33,still,0
+Feb,Morning,45,NE,Poo,Cloudy,52,N,8
+Nov,Morning,240,SW,Pee,Night with Clouds,40,SW,3
+Nov,Morning,243,SW,Pee,Night with Clouds,52,NNE,7
+Dec,Morning,243,SW,Pee,Night with Clouds,46,N,9
+Mar,Morning,125,SE,Pee,Sunny,28,SSW,12
+Mar,Morning,143,SE,Pee,Sunny,36,WNW,5
+Jan,Morning,286,NW,Poo,Night with Clouds,31,SE,14
+Jan,Morning,176,S,Pee,Night with Clouds,21,W,3
+Mar,Morning,179,S,Poo,Sunny,28,SSW,12
+Jan,Morning,154,SE,Pee,Night with Clouds,18,SSE,12
+Mar,Morning,133,SE,Pee,Clear Night,23,ESE,9
+Jan,Morning,152,SE,Poo,Night with Clouds,21,W,3
+Mar,Morning,171,S,Poo,Sunny,36,WNW,5
+Jan,Morning,253,SW,Pee,Night with Clouds,24,SSE,8
+Nov,Morning,242,SW,Poo,Night with Clouds,52,NNE,7
+Feb,Morning,320,NW,Pee,Cloudy,36,SSE,10
+May,Morning,112,SE,Pee,Night with Clouds,67,still,0
+May,Morning,216,SW,Pee,Sunny With Clouds,74,N,8
+Jan,Morning,237,SW,Poo,Night with Clouds,24,SSE,8
+May,Morning,11,NE,Poo,Night with Clouds,67,still,0
+May,Morning,314,NW,Poo,Sunny With Clouds,74,N,8
+Nov,Morning,71,NE,Pee,Night with Clouds,41,E,7
+Dec,Morning,276,W,Pee,Night with Clouds,33,NE,3
+Feb,Morning,170,S,Pee,Night with Clouds,30,SE,18
+Feb,Morning,244,SW,Poo,Cloudy,36,SSE,10
+Dec,Morning,303,NW,Pee,Night with Clouds,36,still,0
+May,Morning,55,NE,Pee,Sunny with Clouds,45,SSW,17
+Dec,Morning,290,W,Poo,Night with Clouds,33,NE,3
+Feb,Morning,233,SW,Poo,Night with Clouds,30,SE,18
+Jan,Morning,188,S,Pee,Night with Clouds,20,ESE,7
+Dec,Morning,247,SW,Pee,Night with Clouds,61,ESE,7
+Jan,Morning,10,N,Pee,Clear Night,18,SSE,12
+Jan,Morning,297,NW,Poo,Clear Night,18,SSE,12
+Feb,Morning,260,W,Poo,Cloudy,46,still,0
+May,Morning,67,NE,Poo,Sunny with Clouds,45,SSW,17
+Feb,Morning,300,NW,Pee,Cloudy,46,still,0
+Dec,Morning,4,N,Poo,Night with Clouds,61,ESE,7
+Mar,Morning,46,NE,Pee,Night with Clouds,52,SE,8
+Mar,Morning,67,NE,Poo,Night with Clouds,52,SE,8
+Dec,Morning,296,NW,Pee,Night with Clouds,37,SSE,7
+Apr,Morning,351,N,Pee,Sunny with Clouds,59,NNE,12
+Dec,Morning,310,NW,Poo,Night with Clouds,37,SSE,7
+Apr,Morning,14,NE,Poo,Sunny with Clouds,59,NNE,12
+Dec,Morning,242,SW,Pee,Night with Clouds,48,SSE,14
+Dec,Morning,252,W,Pee,Night with Clouds,42,NNE,6
+Sept,Morning,203,SW,Pee,Sunny with Clouds,63,SE,7
+Nov,Morning,20,N,Pee,Night with Clouds,53,ENE,7
+Dec,Morning,251,W,Poo,Night with Clouds,48,SSE,14
+Dec,Morning,323,NW,Pee,Night with Clouds,34,still,0
+Dec,Morning,226,SW,Pee,Night with Clouds,47,N,14
+Nov,Morning,325,NW,Poo,Night with Clouds,53,ENE,7
+Dec,Morning,304,NW,Pee,Night with Clouds,38,WSW,3
+Dec,Morning,245,SW,Pee,Clear Night,29,S,9
+Jan,Morning,240,SW,Pee,Cloudy,23,SSE,17
+Oct,Morning,251,W,Pee,Cloudy,70,still,0
+Oct,Morning,341,N,Poo,Cloudy,70,still,0
+Oct,Morning,33,NE,Pee,Clear Night,48,still,0
+Oct,Morning,283,W,Pee,Night with Clouds,54,SE,9
+Nov,Morning,265,W,Pee,Night with Clouds,34,S,8
+Nov,Morning,4,N,Pee,Sunny with Clouds,49,ENE,6
+Nov,Morning,352,N,Poo,Night with Clouds,34,S,8
+Nov,Morning,325,NW,Pee,Sunny with Clouds,45,S,7
+Nov,Morning,25,NE,Pee,Raining,60,N,10
+Dec,Morning,28,NE,Pee,Night with Clouds,51,WSW,7
+Oct,Morning,345,N,Poo,Clear Night,48,still,0
+Nov,Morning,313,NW,Poo,Raining,60,N,10
+Dec,Morning,274,W,Poo,Night with Clouds,51,WSW,7
+Sept,Morning,284,W,Pee,Sunny,57,NNE,3
+Oct,Morning,25,N,Pee,Sunny with Clouds,65,still,0
+Nov,Morning,246,SW,Pee,Night with Clouds,34,SE,14
+Sept,Morning,276,W,Poo,Sunny,57,NNE,3
+Nov,Morning,316,NW,Poo,Night with Clouds,34,SE,14
+Nov,Morning,349,N,Pee,Sunny with Clouds,44,ENE,10
+Oct,Morning,346,N,Pee,Raining,58,W,16
+Nov,Morning,272,W,Pee,Night with Clouds,36,SSE,6
+Sept,Morning,302,NW,Pee,Sunny,57,still,0
+Nov,Morning,21,N,Pee,Sunny with Clouds,45,NE,3
+Oct,Morning,294,W,Pee,Sunny with Clouds,67,S,5
+Nov,Morning,312,NW,Pee,Night with Clouds,38,still,0
+Dec,Morning,258,W,Pee,Night with Clouds,45,N,9
+Dec,Morning,235,SW,Pee,Night with Clouds,37,S,3
+Dec,Morning,174,S,Poo,Night with Clouds,37,S,3
+Oct,Morning,359,N,Pee,Sunny with Clouds,68,NE,5
+Nov,Morning,356,N,Pee,Night with Clouds,51,still,0
+Nov,Morning,341,N,Pee,Cloudy,55,still,0
+Nov,Morning,311,NW,Poo,Night with Clouds,38,still,0
+Nov,Morning,29,NE,Poo,Sunny with Clouds,45,NE,3
+Oct,Morning,273,W,Pee,Sunny with Clouds,72,NNE,6
+Oct,Morning,53,NE,Pee,Sunny,51,NE,9
+Nov,Morning,331,NW,Poo,Night with Clouds,51,still,0
+Nov,Morning,303,NW,Poo,Cloudy,55,still,0
+Feb,Morning,136,SE,Pee,Sunny,21,S,6
+Mar,Morning,147,SE,Pee,Night with Clouds,34,NNE,5
+Oct,Morning,327,N,Poo,Sunny,51,NE,9
+Nov,Morning,283,W,Pee,Night with Clouds,39,S,7
+Feb,Morning,312,NW,Poo,Sunny,21,S,6
+Sept,Morning,288,W,Pee,Cloudy,63,S,12
+Oct,Morning,348,N,Pee,Night with Clouds,60,SE,10
+Nov,Morning,243,SW,Pee,Raining,48,still,0
+Oct,Morning,342,NW,Pee,Cloudy,71,WSW,6
+Dec,Morning,252,W,Pee,Night with Clouds,41,SSE,10
+Oct,Morning,303,NW,Poo,Night with Clouds,60,SE,10
+Sept,Morning,317,NW,Pee,Cloudy,63,NNE,5
+Oct,Morning,36,NE,Pee,Cloudy,64,W,3
+Oct,Morning,19,N,Pee,Night with Clouds,64,SE,14
+Oct,Morning,247,SW,Pee,Night with Clouds,52,S,5
+Sept,Morning,260,W,Poo,Cloudy,63,NNE,5
+Oct,Morning,1,N,Poo,Cloudy,64,W,3
+Oct,Morning,280,W,Pee,Sunny,68,SSW,6
+Oct,Morning,13,N,Pee,Sunny,63,NNE,6
+Oct,Morning,307,NW,Poo,Sunny,63,NNE,6
+Dec,Morning,229,SW,Pee,Clear Night,29,S,9
+Oct,Morning,221,SW,Pee,Sunny,66,SW,7
+Dec,Morning,233,SW,Pee,Night with Clouds,32,ENE,5
+Oct,Morning,29,NE,Pee,Night with Clouds,54,NE,5
+Nov,Morning,245,SW,Pee,Night with Clouds,39,ENE,3
+Jan,Morning,95,E,Pee,Sunny with Clouds,27,NE,5
+Oct,Morning,256,W,Pee,Night with Clouds,53,NNE,6
+Jan,Morning,310,NW,Poo,Sunny with Clouds,27,NE,5
+Oct,Morning,302,NW,Poo,Night with Clouds,53,NNE,6
+Jan,Morning,170,S,Poo,Sunny with Clouds,27,NE,5
+Feb,Morning,256,W,Poo,Sunny,30,SE,8
+Oct,Morning,292,NW,Pee,Raining,69,SW,9
+Feb,Morning,268,W,Pee,Sunny,30,SE,8
+Mar,Morning,271,W,Pee,Sunny,23,ESE,8
+Mar,Morning,168,S,Poo,Sunny,23,ESE,8
+Feb,Morning,126,SE,Pee,Cloudy,34,SSE,9
+Dec,Morning,299,NW,Poo,Night with Clouds,32,ENE,5
+Feb,Morning,319,NW,Poo,Cloudy,34,SSE,9
+Nov,Morning,248,W,Pee,Sunny with Clouds,34,NE,7
+Nov,Morning,351,N,Pee,Night with Clouds,37,N,8
+Feb,Morning,185,S,Pee,Cloudy,37,NE,5
+Nov,Morning,271,W,Pee,Sunny with Clouds,40,SW,5
+Nov,Morning,319,NW,Poo,Night with Clouds,37,N,8
+Nov,Morning,330,NW,Poo,Sunny with Clouds,40,SW,5
+Nov,Morning,316,NW,Poo,Sunny with Clouds,34,NE,7
+Oct,Morning,324,NW,Pee,Sunny,56,E,6
+Oct,Morning,11,N,Pee,Cloudy,66,SW,10
+Oct,Morning,43,NE,Pee,Cloudy,64,SSW,12
+Feb,Morning,132,SE,Pee,Sunny,25,N,5
+Oct,Morning,239,SW,Pee,Cloudy,63,NNE,13
+Oct,Morning,317,NW,Poo,Cloudy,66,SW,10
+Oct,Morning,288,NW,Poo,Cloudy,64,SSW,12
+Oct,Morning,33,NE,Pee,Cloudy,52,NE,6
+Nov,Morning,331,NW,Pee,Sunny with Clouds,36,SE,8
+Dec,Morning,176,S,Pee,Sunny with Clouds,50,NNE,14
+Oct,Morning,259,W,Pee,Sunny,70,N,13
+Nov,Morning,333,NW,Poo,Sunny with Clouds,36,SE,8
+Oct,Morning,50,NE,Pee,Cloudy,56,still,0
+Nov,Morning,265,W,Pee,Sunny with Clouds,36,still,0
+Nov,Morning,317,NW,Poo,Sunny with Clouds,36,still,0
+Oct,Morning,316,NW,Poo,Cloudy,56,still,0
+Oct,Morning,191,S,Pee,Sunny,61,ENE,3
+Oct,Morning,275,W,Poo,Sunny,61,ENE,3
+Oct,Morning,316,NW,Pee,Sunny with Clouds,56,N,14
+Oct,Morning,343,N,Poo,Sunny with Clouds,56,N,14
+Nov,Morning,354,N,Pee,Sunny with Clouds,44,SE,16
+Nov,Morning,310,NW,Poo,Sunny with Clouds,44,SE,16
+Dec,Morning,17,N,Pee,Sunny with Clouds,42,S,5
+Dec,Morning,327,NW,Poo,Sunny with Clouds,42,S,5
+Sept,Morning,209,SW,Poo,Sunny,59,S,3
+Sept,Morning,195,SW,Pee,Sunny,59,S,3
+Nov,Morning,287,W,Pee,Sunny with Clouds,39,N,6
+Nov,Morning,32,NE,Poo,Sunny with Clouds,39,N,6
+Nov,Morning,222,SW,Pee,Sunny with Clouds,46,SE,18
+Nov,Morning,125,SE,Poo,Sunny with Clouds,46,SE,18
+May,Morning,152,SE,Pee,Raining,53,SW,14
+May,Morning,178,S,Poo,Raining,53,SW,14
+Mar,Morning,50,NE,Pee,Raining,64,NNE,15
+Apr,Morning,324,NW,Poo,Sunny,55,SW,7
+Apr,Morning,209,SW,Pee,Sunny,55,SW,7
+Mar,Morning,98,E,Pee,Cloudy,54,W,12
+Dec,Morning,244,SW,Pee,Sunny,36,SSE,12
+Jan,Morning,175,S,Pee,Cloudy,25,S,14
+Mar,Morning,232,SW,Pee,Cloudy,54,SE,9
+Mar,Morning,104,E,Pee,Cloudy,46,N,6
+Jan,Morning,80,E,Pee,Raining,41,NNE,12
+Mar,Morning,156,SE,Pee,Cloudy,56,SSW,9
+Jan,Morning,183,S,Pee,Sunny with Clouds,43,SW,6
+Mar,Morning,10,N,Pee,Cloudy,43,E,18
+Jan,Morning,233,SW,Poo,Raining,41,NNE,12
+Mar,Morning,239,SW,Pee,Sunny with Clouds,48,E,17
+Jan,Morning,82,E,Poo,Sunny with Clouds,43,SW,6
+Mar,Morning,123,SE,Pee,Sunny with Clouds,66,N,15
+Jun,Morning,94,E,Pee,Sunny,78,SSE,13
+Mar,Morning,263,W,Pee,Sunny,59,N,8
+Mar,Morning,223,SW,Poo,Sunny,59,N,8
+Jan,Morning,217,SW,Pee,Sunny,38,NNW,8
+Mar,Morning,127,SE,Pee,Sunny,57,N,8
+Dec,Morning,330,NW,Pee,Raining,54,N,7
+Mar,Morning,208,SW,Pee,Sunny,34,SSE,16
+Mar,Morning,48,NE,Pee,Cloudy,66,N,18
+Mar,Morning,200,S,Pee,Sunny,59,S,6
+May,Morning,169,S,Pee,Cloudy,64,SW,8
+Mar,Morning,324,NW,Poo,Cloudy,66,N,18
+Apr,Morning,255,W,Pee,Sunny,47,S,3
+Apr,Morning,58,NE,Pee,Sunny,52,S,9
+Jan,Morning,17,N,Pee,Cloudy,37,N,14
+Jan,Morning,16,N,Poo,Cloudy,37,N,14
+Dec,Morning,134,SE,Pee,Cloudy,52,W,3
+Dec,Morning,284,W,Pee,Cloudy,53,W,5
+Feb,Morning,317,NW,Pee,Sunny,43,SE,9
+Dec,Morning,28,NE,Poo,Cloudy,52,W,3
+Apr,Morning,40,NE,Poo,Sunny,47,S,3
+Apr,Morning,133,SE,Pee,Cloudy,57,ESE,15
+Dec,Morning,296,NW,Pee,Cloudy,51,WSW,3
+Apr,Morning,273,W,Pee,Sunny with Clouds,52,ESE,14
+Dec,Morning,333,NW,Poo,Sunny with Clouds,51,WSW,3
+Mar,Morning,289,W,Pee,Sunny with Clouds,59,E,17
+May,Morning,60,NE,Pee,Sunny,64,SSW,14
+Dec,Morning,56,NE,Pee,Sunny,37,SW,8
+Mar,Morning,136,SE,Pee,Sunny with Clouds,37,E,18
+Jan,Morning,358,N,Pee,Snowing,30,S,24
+Jan,Morning,260,W,Pee,Cloudy,61,NNE,5
+Apr,Morning,351,N,Pee,Sunny,65,NNE,12
+May,Morning,202,S,Pee,Cloudy,68,SSW,14
+May,Morning,276,W,Pee,Cloudy,68,still,0
+Dec,Morning,318,NW,Poo,Sunny,37,SW,8
+Apr,Morning,278,W,Pee,Sunny,76,N,16
+May,Morning,162,S,Pee,Cloudy,61,N,5
+Jan,Morning,52,NE,Poo,Snowing,30,S,24
+Apr,Morning,342,N,Pee,Sunny,70,SE,8
+Dec,Morning,25,NE,Poo,Sunny,37,SW,8
+Apr,Morning,40,NE,Poo,Sunny,54,SE,20
+Feb,Morning,84,E,Pee,Raining,45,SE,10
+Apr,Morning,77,E,Pee,Sunny with Clouds,71,N,6
+Mar,Morning,235,SW,Pee,Raining,43,W,8
+May,Morning,270,W,Pee,Sunny,81,N,10
+Mar,Morning,39,NE,Pee,Sunny with Clouds,63,still,0
+Apr,Morning,121,SE,Pee,Sunny,54,SE,20
+Apr,Morning,242,SW,Pee,Cloudy,46,W,10
+Apr,Morning,144,SE,Pee,Sunny,56,S,3
+May,Morning,262,W,Pee,Raining,66,SW,9
+Apr,Morning,167,S,Poo,Cloudy,46,W,10
+Dec,Morning,254,NW,Pee,Sunny with Clouds,46,SE,12
+Apr,Morning,282,W,Pee,Sunny with Clouds,55,NNW,7
+Jan,Morning,268,W,Pee,Raining,57,still,0
+Jan,Morning,290,W,Pee,Sunny,30,ESE,15
+Mar,Morning,117,SE,Pee,Sunny,37,N,7
+Apr,Morning,121,SE,Pee,Cloudy,50,S,6
+Jan,Morning,308,NW,Poo,Raining,57,still,0
+Feb,Morning,75,NE,Pee,Sunny,43,N,9
+Mar,Morning,97,E,Pee,Sunny,75,NNE,26
+Mar,Morning,130,SE,Pee,Sunny,54,S,17
+Jan,Morning,30,NE,Pee,Sunny,37,NNE,16
+Apr,Morning,163,S,Pee,Cloudy,67,S,5
+May,Morning,304,NW,Pee,Cloudy,82,N,6
+Feb,Morning,169,S,Pee,Sunny,36,NNW,7
+Mar,Morning,248,W,Pee,Sunny with Clouds,48,S,22
+Jan,Morning,355,N,Poo,Sunny,37,NNE,16
+May,Morning,139,SE,Pee,Cloudy,61,W,9
+Jun,Morning,82,E,Pee,Sunny with Clouds,78,WNW,3
+Dec,Morning,261,W,Pee,Sunny,43,ESE,12
+Apr,Morning,290,NW,Pee,Sunny with Clouds,64,W,5
+Feb,Morning,211,SW,Pee,Sunny,45,S,9
+Mar,Morning,318,NW,Pee,Sunny,54,N,9
+Apr,Morning,86,E,Pee,Cloudy,60,WSW,8
+Jan,Morning,196,S,Pee,Sunny,32,still,0
+Feb,Morning,259,W,Pee,Sunny,57,N,7
+May,Morning,227,SW,Pee,Sunny,75,SSW,7
+Jun,Morning,118,SE,Pee,Cloudy,73,ESE,12
+Apr,Morning,212,SW,Pee,Cloudy,48,E,17
+Jan,Morning,59,NE,Poo,Sunny,32,still,0
+Apr,Morning,27,NE,Poo,Cloudy,60,WSW,8
+Dec,Morning,24,NE,Pee,Cloudy,54,SW,7
+Jan,Morning,227,SW,Pee,Sunny with Clouds,32,S,16
+Apr,Morning,224,SW,Pee,Sunny,59,S,7
+Feb,Morning,339,N,Pee,Sunny,54,N,9
+May,Morning,32,NE,Pee,Cloudy,50,SW,20
+Feb,Morning,213,SW,Pee,Sunny,37,SSW,7
+Feb,Morning,204,SW,Pee,Sunny,48,E,17
+Nov,Afternoon,256,W,Pee,Sunny,64,SSE,8
+Apr,Afternoon,257,W,Pee,Cloudy,55,S,9
+Apr,Afternoon,162,S,Poo,Cloudy,55,S,9
+Jan,Afternoon,153,SE,Pee,Sunny with Clouds,34,SSW,7
+Nov,Afternoon,305,NW,Poo,Sunny,64,SSE,8
+Mar,Afternoon,134,SE,Pee,Cloudy,48,WSW,7
+Jan,Afternoon,85,E,Pee,Cloudy,39,SW,7
+Feb,Afternoon,73,NE,Pee,Sunny with Clouds,45,NNE,12
+May,Afternoon,115,SE,Pee,Raining,60,SW,10
+Feb,Afternoon,66,NE,Pee,Cloudy,66,NNE,13
+Dec,Afternoon,310,NW,Pee,Cloudy,63,NNE,20
+Mar,Afternoon,219,SW,Pee,Cloudy,46,NNE,13
+May,Afternoon,206,SW,Pee,Cloudy,69,WSW,9
+May,Afternoon,145,SE,Pee,Sunny with Clouds,70,N,6
+Oct,Afternoon,39,NE,Pee,Cloudy,72,NE,3
+Dec,Afternoon,324,NW,Poo,Cloudy,62,NNE,20
+Oct,Afternoon,238,SW,Pee,Sunny with Clouds,72,NNW,6
+Feb,Afternoon,210,SW,Pee,Sunny,30,SSE,17
+Dec,Afternoon,12,N,Pee,Sunny with Clouds,55,still,0
+Dec,Afternoon,261,W,Pee,Cloudy,39,SW,3
+Feb,Afternoon,130,SE,Pee,Cloudy,59,N,10
+Sept,Afternoon,246,SW,Poo,Sunny with Clouds,75,SSE,8
+Dec,Afternoon,307,NW,Pee,Sunny,55,SSE,8
+May,Afternoon,139,SE,Pee,Raining,70,N,8
+May,Afternoon,296,NW,Pee,Sunny,77,E,13
+May,Afternoon,192,S,Poo,Raining,70,N,8
+Sept,Afternoon,105,E,Pee,Sunny with Clouds,75,SSE,8
+Nov,Afternoon,284,W,Pee,Sunny with Clouds,46,NNE,7
+Dec,Afternoon,312,NW,Pee,Night with Clouds,43,W,3
+Apr,Afternoon,4,N,Pee,Raining,47,ESE,17
+May,Afternoon,121,SE,Pee,Cloudy,64,NNW,5
+May,Afternoon,37,NE,Pee,Sunny with Clouds,90,ESE,8
+Dec,Afternoon,342,N,Poo,Cloudy,43,W,3
+Dec,Afternoon,324,NW,Poo,Sunny with Clouds,55,still,0
+Dec,Afternoon,128,SE,Poo,Sunny,55,SSE,8
+Oct,Afternoon,243,SW,Pee,Sunny with Clouds,63,SE,18
+Dec,Afternoon,288,W,Pee,Sunny,48,NW,3
+Jan,Afternoon,239,SW,Pee,Sunny,30,SE,13
+Feb,Afternoon,128,SE,Pee,Raining,36,SW,8
+Nov,Afternoon,3,N,Pee,Sunny,68,NNW,5
+Apr,Afternoon,24,NE,Pee,Cloudy,55,ESE,16
+Jan,Afternoon,245,SW,Pee,Sunny with Clouds,43,S,7
+Nov,Afternoon,335,NW,Pee,Sunny,68,N,15
+Jan,Afternoon,194,S,Pee,Sunny,34,NNW,9
+Nov,Afternoon,317,NW,Poo,Sunny,68,NNW,5
+Oct,Afternoon,235,SW,Pee,Sunny,70,N,5
+May,Afternoon,74,NE,Pee,Cloudy,74,SW,9
+Apr,Afternoon,98,E,Poo,Cloudy,55,ESE,16
+Sept,Afternoon,284,W,Pee,Clear Night,70,NE,7
+Oct,Afternoon,4,N,Pee,Cloudy,68,S,6
+Feb,Afternoon,185,S,Pee,Cloudy,57,S,13
+Oct,Afternoon,44,NE,Pee,Sunny,66,E,9
+Oct,Afternoon,348,N,Pee,Cloudy,66,WNW,3
+Oct,Afternoon,348,N,Pee,Cloudy,63,WNW,3
+Feb,Afternoon,144,SE,Pee,Cloudy,63,N,16
+Feb,Afternoon,173,S,Pee,Sunny with Clouds,45,SE,33
+Apr,Afternoon,222,SW,Pee,Sunny with Clouds,59,ESE,23
+Apr,Afternoon,2,N,Pee,Sunny with Clouds,57,SE,13
+Oct,Afternoon,68,N,Poo,Cloudy,68,S,6
+May,Afternoon,245,SW,Pee,Raining,77,N,20
+Apr,Afternoon,215,SW,Pee,Sunny,73,S,3
+Oct,Afternoon,253,W,Poo,Cloudy,63,WNW,3
+Oct,Afternoon,247,W,Pee,Cloudy,77,WSW,3
+Jan,Afternoon,101,E,Pee,Cloudy,46,SW,3
+Apr,Afternoon,332,NW,Poo,Sunny,73,S,3
+Feb,Afternoon,177,S,Pee,Snowing,34,S,12
+Feb,Afternoon,260,W,Pee,Sunny with Clouds,39,SE,12
+May,Afternoon,131,SE,Pee,Sunny,63,SSW,13
+Jan,Afternoon,304,NW,Pee,Sunny,28,SW,5
+Jun,Afternoon,276,W,Pee,Sunny with Clouds,89,SSE,15
+Nov,Afternoon,29,NE,Pee,Sunny,57,N,8
+Apr,Afternoon,230,SW,Pee,Raining,52,SSW,7
+May,Afternoon,319,NW,Pee,Sunny,83,N,15
+Apr,Afternoon,232,SW,Poo,Raining,52,SSW,7
+Nov,Afternoon,162,S,Poo,Sunny,57,N,8
+Oct,Afternoon,42,NE,Pee,Sunny with Clouds,72,still,0
+Oct,Afternoon,56,NE,Pee,Sunny with Clouds,63,N,9
+Nov,Afternoon,238,SW,Pee,Sunny with Clouds,55,S,13
+Dec,Afternoon,230,SW,Pee,Cloudy,52,ESE,13
+Dec,Afternoon,250,W,Pee,Cloudy,43,W,6
+Mar,Afternoon,258,W,Pee,Sunny,59,N,10
+Dec,Afternoon,263,W,Pee,Sunny,43,SE,12
+May,Afternoon,71,NE,Pee,Sunny,71,SW,6
+May,Afternoon,109,E,Pee,Sunny,89,N,10
+Oct,Afternoon,306,NW,Poo,Sunny with Clouds,63,N,9
+May,Afternoon,78,E,Poo,Sunny,83,N,15
+May,Afternoon,100,E,Pee,Raining,60,NW,5
+May,Afternoon,190,S,Pee,Sunny with Clouds,93,WNW,6
+May,Afternoon,223,SW,Poo,Raining,60,NW,5
+Feb,Afternoon,134,SE,Pee,Sunny with Clouds,59,ENE,15
+Oct,Afternoon,267,W,Pee,Sunny,72,ESE,13
+Jan,Afternoon,269,W,Pee,Sunny with Clouds,39,NW,5
+Mar,Afternoon,293,NW,Pee,Sunny with Clouds,34,NNE,16
+Apr,Afternoon,350,N,Pee,Sunny with Clouds,60,N,13
+Sept,Afternoon,272,W,Pee,Sunny,72,SSE,14
+Jan,Afternoon,281,W,Pee,Sunny,25,SE,24
+Dec,Afternoon,316,NW,Pee,Sunny with Clouds,63,S,10
+May,Afternoon,251,W,Pee,Sunny with Clouds,73,E,8
+Nov,Afternoon,244,SW,Pee,Sunny with Clouds,48,SE,18
+Nov,Afternoon,49,NE,Pee,Cloudy,52,N,10
+Sept,Afternoon,74,NE,Poo,Sunny,72,SSE,14
+Oct,Afternoon,27,NE,Pee,Sunny with Clouds,75,N,5
+Nov,Afternoon,250,W,Pee,Sunny with Clouds,52,S,6
+Nov,Afternoon,319,NW,Poo,Sunny with Clouds,48,SE,18
+Nov,Afternoon,284,W,Pee,Raining,48,S,12
+Oct,Afternoon,281,W,Poo,Sunny with Clouds,75,N,8
+Nov,Afternoon,47,NE,Poo,Raining,48,S,12
+Nov,Afternoon,4,N,Poo,Sunny with Clouds,52,SSE,10
+Oct,Afternoon,41,NE,Pee,Sunny with Clouds,77,NNE,17
+Nov,Afternoon,222,SW,Poo,Cloudy,52,N,10
+Oct,Afternoon,308,NW,Pee,Sunny with Clouds,75,N,12
+Dec,Afternoon,268,W,Pee,Sunny,63,still,0
+Oct,Afternoon,53,NE,Poo,Sunny with Clouds,75,N,12
+Apr,Afternoon,254,W,Pee,Sunny,50,S,14
+Oct,Afternoon,335,NW,Poo,Sunny with Clouds,77,NNE,17
+Dec,Afternoon,355,N,Pee,Sunny with Clouds,43,N,6
+Nov,Afternoon,255,W,Pee,Sunny,48,NE,9
+Sept,Afternoon,237,SW,Pee,Cloudy,73,ENE,9
+Dec,Afternoon,7,N,Poo,Sunny with Clouds,43,N,6
+Dec,Afternoon,335,NW,Poo,Sunny,63,NNE,12
+Jan,Afternoon,209,SW,Pee,Sunny with Clouds,48,still,0
+Oct,Afternoon,249,W,Pee,Sunny,75,S,9
+Nov,Afternoon,261,W,Pee,Sunny with Clouds,52,SSW,13
+Nov,Afternoon,304,NW,Pee,Night with Clouds,52,still,0
+Oct,Afternoon,344,N,Pee,Cloudy,72,SW,10
+Dec,Afternoon,297,NW,Pee,Cloudy,61,NNE,17
+Nov,Afternoon,294,NW,Poo,Cloudy,52,still,0
+Nov,Afternoon,11,N,Pee,Sunny,48,SE,9
+Dec,Afternoon,44,NE,Pee,Sunny with Clouds,52,SSW,3
+Oct,Afternoon,341,N,Poo,Cloudy,72,SW,10
+Nov,Afternoon,12,N,Poo,Sunny with Clouds,52,SSW,13
+May,Afternoon,112,SE,Pee,Sunny With Clouds,70,W,15
+Dec,Afternoon,314,NW,Poo,Sunny with Clouds,52,SSW,3
+Sept,Afternoon,254,W,Pee,Sunny with Clouds,72,SE,10
+Jan,Afternoon,149,SE,Pee,Cloudy,48,still,0
+Nov,Afternoon,340,N,Poo,Sunny,48,SE,9
+Jan,Afternoon,90,E,Pee,Sunny with Clouds,30,NNE,9
+Nov,Afternoon,8,N,Pee,Sunny with Clouds,52,NNW,6
+May,Afternoon,270,W,Pee,Sunny with Clouds,72,S,9
+Feb,Afternoon,71,NE,Pee,Sunny,34,S,3
+Dec,Afternoon,45,NE,Pee,Sunny,57,WSW,7
+Sept,Afternoon,327,NW,Pee,Sunny,75,NNE,14
+Jan,Afternoon,143,SE,Pee,Sunny,27,SSE,7
+Nov,Afternoon,292,W,Pee,Sunny,54,N,7
+Nov,Afternoon,60,NE,Pee,Sunny,48,S,3
+Dec,Afternoon,302,NW,Pee,Cloudy,55,N,7
+Mar,Afternoon,3,N,Pee,Snowing,30,SW,22
+Oct,Afternoon,38,NE,Pee,Cloudy,68,SSW,9
+Jan,Afternoon,109,E,Pee,Sunny with Clouds,52,NNE,17
+Mar,Afternoon,147,SE,Poo,Snowing,30,SW,22
+Oct,Afternoon,325,NW,Pee,Sunny with Clouds,63,SE,15
+Oct,Afternoon,268,W,Pee,Sunny,66,SSE,22
+Nov,Afternoon,360,N,Poo,Sunny,54,N,7
+Oct,Afternoon,287,W,Poo,Sunny,66,SSE,22
+Oct,Afternoon,256,W,Pee,Sunny,68,SSW,6
+Dec,Afternoon,316,NW,Poo,Cloudy,55,N,7
+Nov,Afternoon,286,W,Pee,Sunny,70,SE,8
+Oct,Afternoon,29,NE,Poo,Sunny,68,SSW,6
+Nov,Afternoon,349,N,Pee,Sunny,63,SE,8
+Nov,Afternoon,4,N,Poo,Sunny,70,SE,8
+Sept,Afternoon,257,W,Pee,Sunny,73,SE,12
+Jan,Afternoon,299,NW,Pee,Cloudy,27,SE,15
+Oct,Afternoon,316,NW,Poo,Sunny with Clouds,63,SE,15
+Mar,Afternoon,226,SW,Pee,Cloudy,63,W,6
+Dec,Afternoon,292,W,Pee,Cloudy,64,NNE,18
+May,Afternoon,334,NW,Pee,Sunny With Clouds,70,N,6
+Sept,Afternoon,242,SW,Poo,Sunny,73,SE,12
+Sept,Afternoon,278,W,Pee,Sunny with Clouds,73,ENE,8
+Dec,Afternoon,330,NW,Poo,Cloudy,64,NNE,18
+Sept,Afternoon,355,N,Poo,Sunny with Clouds,73,ENE,8
+Dec,Afternoon,272,W,Pee,Sunny,57,WSW,3
+Jan,Afternoon,19,N,Pee,Snowing,25,SW,12
+Feb,Afternoon,104,E,Pee,Cloudy,43,NNE,3
+Apr,Afternoon,132,SE,Pee,Sunny with Clouds,65,N,10
+Nov,Afternoon,13,N,Pee,Cloudy,48,NNE,13
+Oct,Afternoon,357,N,Pee,Sunny,70,W,6
+Oct,Afternoon,36,NE,Pee,Sunny,66,S,8.7
+Sept,Afternoon,84,E,Pee,Sunny,72,SSE,6
+Oct,Afternoon,169,S,Poo,Sunny,70,S,7
+Jan,Afternoon,191,S,Poo,Snowing,25,SW,12
+Dec,Afternoon,37,NE,Pee,Cloudy,45,S,20
+Nov,Afternoon,328,NW,Pee,Sunny,55,SE,20
+Jan,Afternoon,148,SE,Pee,Cloudy,37,SE,15
+Oct,Afternoon,191,S,Pee,Sunny,81,N,9
+Nov,Afternoon,302,NW,Pee,Sunny,52,SE,12
+Nov,Afternoon,352,N,Poo,Sunny,52,SE,12
+Oct,Afternoon,16,N,Pee,Cloudy,75,WNW,3
+Oct,Afternoon,154,SE,Pee,Sunny,77,N,12
+Oct,Afternoon,330,NW,Pee,Cloudy,63,N,14
+Oct,Afternoon,293,NW,Pee,Cloudy,64,N,14
+Nov,Afternoon,344,N,Pee,Sunny,61,SE,10
+Oct,Afternoon,330,NW,Poo,Cloudy,63,N,14
+Oct,Afternoon,357,N,Poo,Cloudy,64,E,12
+Nov,Afternoon,326,NW,Poo,Sunny,61,SE,10
+Oct,Afternoon,246,SW,Pee,Sunny with Clouds,63,SE,23
+Oct,Afternoon,275,W,Pee,Cloudy,72,W,5
+Nov,Afternoon,249,W,Pee,Sunny,48,SSE,23
+Oct,Afternoon,291,W,Poo,Cloudy,72,W,5
+Nov,Afternoon,332,NW,Poo,Sunny,48,SSE,23
+Feb,Afternoon,186,S,Pee,Sunny with Clouds,32,E,16
+Dec,Afternoon,253,W,Pee,Cloudy,52,WNW,6
+Oct,Afternoon,53,NE,Pee,Cloudy,72,SSW,13
+Oct,Afternoon,249,W,Poo,Cloudy,72,SSW,13
+Jan,Afternoon,205,SW,Pee,Sunny with Clouds,41,N,8
+Mar,Afternoon,241,SW,Pee,Cloudy,55,ESE,14
+Mar,Afternoon,231,SW,Pee,Cloudy,43,ESE,24
+Mar,Afternoon,70,NE,Poo,Sunny,75,N,9
+Mar,Afternoon,272,W,Pee,Sunny,72,N,9
+May,Afternoon,260,W,Pee,Cloudy,77,NNE,7
+Mar,Afternoon,313,NW,Pee,Sunny with Clouds,69,ESE,10
+May,Afternoon,234,SW,Pee,Raining,71,still,0
+Apr,Afternoon,153,SE,Pee,Sunny with Clouds,68,N,8
+Jan,Afternoon,183,S,Pee,Sunny,36,N,6
+Apr,Afternoon,131,SE,Pee,Cloudy,56,ENE,12
+Apr,Afternoon,159,S,Poo,Cloudy,56,ENE,12
+Mar,Afternoon,290,W,Pee,Sunny with Clouds,70,NNW,14
+Mar,Afternoon,289,W,Pee,Cloudy,55,WSW,10
+Apr,Afternoon,134,SE,Pee,Sunny with Clouds,78,NE,15
+Mar,Afternoon,68,NE,Pee,Cloudy,54,W,10
+Apr,Afternoon,316,NW,Poo,Sunny,59,SSE,10
+Jan,Afternoon,228,SW,Pee,Cloudy,43,SW,9
+Mar,Afternoon,305,NW,Pee,Cloudy,48,ESE,14
+Mar,Afternoon,192,S,Pee,Cloudy,48,ESE,14
+Apr,Afternoon,87,E,Poo,Sunny,59,SSE,10
+Apr,Afternoon,167,S,Pee,Sunny,59,SSE,10
+May,Afternoon,105,E,Pee,Sunny,81,N,8
+Apr,Afternoon,193,S,Pee,Sunny,55,SE,13
+Apr,Afternoon,126,SE,Poo,Sunny,76,N,7
+Jan,Afternoon,188,S,Pee,Cloudy,27,SSE,10
+Mar,Afternoon,331,NW,Pee,Cloudy,61,ESE,10
+May,Afternoon,144,SE,Pee,Cloudy,73,SW,8
+Jan,Afternoon,230,SW,Poo,Cloudy,27,SSE,10
+May,Afternoon,172,S,Pee,Cloudy,59,W,7
+May,Afternoon,118,SE,Pee,Sunny,92,N,12
+Dec,Afternoon,321,NW,Pee,Cloudy,57,N,6
+Dec,Afternoon,271,W,Pee,Sunny,57,SSE,8
+Mar,Afternoon,240,SW,Pee,Cloudy,73,still,0
+Mar,Afternoon,11,N,Pee,Cloudy,69,N,21
+Apr,Afternoon,38,NE,Pee,Sunny with Clouds,72,SSE,23
+Apr,Afternoon,284,W,Pee,Sunny,71,N,20
+Apr,Afternoon,136,SE,Pee,Sunny,76,N,7
+Apr,Afternoon,200,S,Pee,Raining,53,SSE,13
+Apr,Afternoon,286,W,Pee,Raining,44,SW,13
+Dec,Afternoon,264,W,Pee,Raining,54,W,6
+Mar,Afternoon,264,W,Pee,Sunny with Clouds,70,WSW,3
+Dec,Afternoon,259,W,Pee,Night with Clouds,55,still,0
+Mar,Afternoon,214,SW,Pee,Sunny,45,SSE,13
+Apr,Afternoon,318,NW,Pee,Cloudy,54,E,12
+May,Afternoon,226,SW,Pee,Sunny with Clouds,73,WNW,10
+Dec,Afternoon,329,NW,Poo,Night with Clouds,55,still,0
+Dec,Afternoon,40,NE,Poo,Raining,54,W,6
+Jan,Afternoon,307,NW,Pee,Night with Clouds,61,ESE,9
+Apr,Afternoon,191,S,Pee,Sunny with Clouds,75,SSE,10
+May,Afternoon,77,E,Pee,Cloudy,77,still,0
+May,Afternoon,182,S,Poo,Sunny with Clouds,73,WNW,10
+Apr,Afternoon,201,S,Pee,Sunny with Clouds,54,SSE,21
+Jan,Afternoon,289,W,Poo,Night with Clouds,61,ESE,9
+Mar,Afternoon,309,NW,Poo,Sunny,45,SSE,13
+May,Afternoon,112,E,Poo,Cloudy,67,still,0
+Apr,Afternoon,302,NW,Pee,Sunny with Clouds,65,N,9
+May,Afternoon,78,E,Pee,Sunny with Clouds,80,NNE,7
+Apr,Afternoon,20,N,Poo,Cloudy,54,E,12
+May,Afternoon,244,SW,Pee,Sunny,69,SW,7
+Apr,Afternoon,253,W,Pee,Sunny,54,SSE,23
+May,Afternoon,148,SE,Pee,Cloudy,55,SW,12
+Apr,Afternoon,131,SE,Pee,Sunny,65,ESE,10
+Dec,Afternoon,294,NW,Pee,Clear Night,39,NNW,7
+Dec,Afternoon,272,W,Pee,Cloudy,43,WSW,7
+May,Afternoon,331,NW,Pee,Sunny,85,E,15
+May,Afternoon,221,SW,Poo,Sunny,69,SW,7
+Dec,Afternoon,273,W,Pee,Clear Night,41,N,9
+Apr,Afternoon,286,W,Pee,Cloudy,61,NNE,15
+May,Afternoon,11,N,Pee,Sunny,81,E,12
+Apr,Afternoon,68,NE,Poo,Sunny,65,ESE,10
+Dec,Afternoon,232,SW,Pee,Clear Night,45,SE,14
+May,Afternoon,147,SE,Pee,Cloudy,73,NW,5
+Mar,Afternoon,265,W,Pee,Sunny,75,NNE,22
+Jan,Afternoon,192,S,Pee,Cloudy,61,N,7
+Jan,Afternoon,186,S,Pee,Sunny with Clouds,36,E,15
+Apr,Afternoon,218,SW,Pee,Sunny with Clouds,60,SSE,10
+Dec,Afternoon,125,SE,Pee,Night with Clouds,54,N,5
+Apr,Afternoon,343,N,Pee,Sunny with Clouds,84,N,16
+May,Afternoon,125,SE,Pee,Sunny,73,WSW,16
+May,Afternoon,65,NE,Pee,Sunny,95,SSE,8
+May,Afternoon,169,S,Poo,Sunny,73,WSW,16
+Jan,Afternoon,232,SW,Pee,Clear Night,30,SSE,12
+Apr,Afternoon,260,W,Poo,Sunny with Clouds,84,N,16
+Apr,Afternoon,191,S,Pee,Cloudy,61,still,0
+Apr,Afternoon,315,NW,Pee,Sunny with Clouds,78,still,0
+Jan,Afternoon,90,E,Pee,Night with Clouds,43,N,10
+Apr,Afternoon,24,NE,Pee,Sunny with Clouds,78,still,0
+Jan,Afternoon,54,NE,Pee,Clear Night,34,NNE,9
+Apr,Afternoon,165,S,Pee,Cloudy,67,N,17
+Apr,Afternoon,172,S,Pee,Cloudy,67,N,17
+May,Afternoon,14,N,Poo,Cloudy,71,N,6
+May,Afternoon,209,SW,Poo,Cloudy,71,N,6
+May,Afternoon,137,SE,Pee,Cloudy,71,N,6
+May,Afternoon,159,S,Pee,Sunny,87,N,10
+Apr,Afternoon,96,E,Pee,Sunny,61,N,8
+Apr,Afternoon,178,S,Pee,Sunny,70,WSW,9
+May,Afternoon,211,SW,Pee,Cloudy,71,WSW,10
+Apr,Afternoon,44,NE,Poo,Sunny,61,N,8
+Apr,Afternoon,193,S,Pee,Sunny,56,N,7
+May,Afternoon,126,SE,Poo,Cloudy,71,WSW,10
+Dec,Afternoon,251,W,Pee,Clear Night,51,still,0
+May,Afternoon,167,S,Pee,Raining,73,N,8
+Jan,Afternoon,251,W,Pee,Snowing,27,SW,16
+Mar,Afternoon,81,E,Pee,Sunny with Clouds,57,NNW,16
+May,Afternoon,108,E,Pee,Raining,51,SSW,20
+May,Afternoon,325,NW,Pee,Sunny With Clouds,73,N,10
+May,Afternoon,316,NW,Poo,Sunny With Clouds,73,N,10
+Mar,Afternoon,48,NE,Pee,Cloudy,58,N,13
+May,Afternoon,196,SW,Pee,Sunny with Clouds,70,SW,12
+May,Afternoon,176,S,Pee,Cloudy,71,N,7
+May,Afternoon,125,SE,Pee,Sunny,73,WNW,10
+Jun,Afternoon,232,SW,Pee,Sunny with Clouds,93,ENE,7
+May,Afternoon,121,SE,Pee,Sunny,79,N,3
+Jun,Afternoon,267,W,Pee,Raining,76,NNW,5
+Mar,Afternoon,273,W,Poo,Cloudy,58,N,13
+May,Afternoon,224,SW,Poo,Sunny,79,N,3
+Oct,Afternoon,100,E,Pee,Sunny,66,ESE,12
+Oct,Night,34,NE,Pee,Raining,72,N,8
+Oct,Night,283,W,Poo,Raining,72,N,8
+Apr,Night,158,S,Pee,Sunny,79,W,9
+Apr,Night,110,SE,Pee,Sunny with Clouds,51,ESE,15
+Nov,Night,260,W,Pee,Night with Clouds,52,N,7
+Oct,Night,249,W,Pee,Sunny with Clouds,79,N,8
+Dec,Night,346,N,Pee,Clear Night,48,NE,3
+Nov,Night,250,W,Pee,Sunny with Clouds,54,SSW,7
+Dec,Night,339,N,Poo,Clear Night,48,NE,3
+Oct,Night,262,W,Pee,Sunny,72,N,6
+Dec,Night,293,NW,Pee,Clear Night,43,E,3
+Jan,Night,245,SW,Pee,Night with Clouds,43,SSE,21
+Oct,Night,324,NW,Poo,Sunny,72,N,6
+Jan,Night,276,W,Pee,Night with Clouds,29,ESE,17
+Dec,Night,322,NW,Poo,Clear Night,43,E,3
+Dec,Night,147,SE,Pee,Night with Clouds,43,NNW,6
+Jan,Night,97,E,Pee,Night with Clouds,43,SSE,21
+Nov,Night,256,W,Pee,Clear Night,48,still,0
+Nov,Night,303,NW,Pee,Clear Night,43,SSE,16
+Nov,Night,311,NW,Poo,Clear Night,48,still,0
+Jun,Night,189,S,Poo,Sunny with Clouds,78,SE,14
+Jan,Night,153,SE,Pee,Night with Clouds,25,S,9
+Sept,Night,152,SE,Pee,Sunny with Clouds,70,SSE,14
+Oct,Night,253,W,Pee,Sunny with Clouds,81,N,7
+Dec,Night,296,NW,Pee,Cloudy,54,N,8
+Apr,Night,12,NE,Pee,Raining,63,still,0
+Jun,Night,171,S,Pee,Sunny with Clouds,78,SE,14
+Apr,Night,245,SW,Pee,Sunny with Clouds,53,E,20
+May,Night,298,SW,Pee,Raining,59,SW,15
+Nov,Night,318,NW,Pee,Clear Night,63,N,7
+Dec,Night,300,NW,Pee,Night with Clouds,41,N,10
+Dec,Night,209,SW,Pee,Night with Clouds,53,still,0
+Dec,Night,341,N,Pee,Raining,66,NNE,15
+Oct,Night,241,SW,Pee,Sunny,75,SE,6
+Oct,Night,258,W,Pee,Clear Night,66,SE,12
+Nov,Night,259,W,Pee,Clear Night,50,SSW,6
+Oct,Night,338,N,Poo,Sunny,75,SE,6
+Oct,Night,342,N,Pee,Sunny,70,NE,7
+Nov,Night,348,N,Pee,Clear Night,55,still,0
+Oct,Night,328,NW,Pee,Clear Night,68,NNW,7
+Oct,Night,355,N,Poo,Sunny,70,NE,7
+Oct,Night,83,E,Poo,Clear Night,68,NNW,7
+Nov,Night,300,NW,Pee,Raining,68,NNE,8
+Dec,Night,278,W,Pee,Night with Clouds,52,WNW,8
+Sept,Night,90,E,Pee,Sunny,72,S,9
+Nov,Night,280,W,Poo,Raining,68,NNE,8
+May,Night,176,S,Pee,Cloudy,70,S,9
+Sept,Night,244,SW,Pee,Sunny,72,S,9
+Oct,Night,164,S,Pee,Sunny,72,N,6
+Oct,Night,262,W,Pee,Raining,64,ESE,6
+Nov,Night,3,N,Pee,Clear Night,48,ESE,18
+Nov,Night,340,N,Pee,Night with Clouds,42,NE,5
+Sept,Night,358,N,Pee,Sunny,72,S,9
+Oct,Night,350,N,Pee,Cloudy,63,NW,7
+Dec,Night,301,NW,Pee,Night with Clouds,50,S,10
+Oct,Night,78,E,Poo,Raining,64,ESE,6
+Oct,Night,30,NE,Pee,Sunny with Clouds,72,NW,3
+Dec,Night,346,N,Pee,Sunny with Clouds,57,S,8
+Oct,Night,305,NW,Poo,Sunny with Clouds,72,NW,3
+Oct,Night,281,W,Poo,Sunny,72,N,6
+Nov,Night,287,W,Pee,Clear Night,46,ESE,12
+Dec,Night,250,W,Pee,Night with Clouds,54,N,8
+Sept,Night,358,N,Pee,Sunny,70,SSE,8
+Nov,Night,232,SW,Pee,Cloudy,48,NE,10
+May,Night,252,W,Pee,Sunny with Clouds,89,N,9
+Sept,Night,295,NW,Poo,Sunny,70,SE,7
+Nov,Night,365,N,Pee,Clear Night,52,SSE,8
+Nov,Night,275,W,Pee,Night with Clouds,45,SSE,20
+Oct,Night,266,W,Pee,Cloudy,68,S,7
+Nov,Night,317,NW,Poo,Clear Night,52,SSE,8
+Dec,Night,0,N,Pee,Clear Night,52,WSW,6
+May,Night,248,W,Pee,Sunny with Clouds,75,E,9
+Nov,Night,269,W,Pee,Clear Night,48,SSE,7
+Oct,Night,255,W,Pee,Night with Clouds,55,SE,18
+Nov,Night,297,NW,Pee,Clear Night,61,NW,5
+Oct,Night,319,NW,Poo,Night with Clouds,55,SE,18
+Nov,Night,335,NW,Pee,Clear Night,57,NNW,3
+Nov,Night,236,SW,Pee,Clear Night,48,still,0
+Oct,Night,310,NW,Pee,Clear Night,70,NE,5
+Nov,Night,53,NE,Pee,Cloudy,48,SSE,6
+Oct,Night,307,NW,Pee,Cloudy,63,N,3
+Oct,Night,335,NW,Poo,Clear Night,70,NE,5
+Oct,Night,13,N,Pee,Night with Clouds,73,NNW,3
+Feb,Night,223,SW,Pee,Clear Night,46,SSE,16
+Dec,Night,277,W,Pee,Night with Clouds,50,SSW,3
+Dec,Night,72,NE,Poo,Night with Clouds,50,SSW,3
+Nov,Night,301,NW,Pee,Clear Night,52,N,8
+Nov,Night,266,W,Pee,Night with Clouds,50,SSW,8
+Sept,Night,155,SE,Pee,Clear Night,72,E,6
+Sept,Night,1,N,Pee,Clear Night,75,NNE,8
+Dec,Night,144,SE,Pee,Night with Clouds,63,NE,13
+Nov,Night,326,NW,Poo,Night with Clouds,50,SSW,8
+Sept,Night,157,SE,Pee,Clear Night,72,E,6
+Dec,Night,289,W,Pee,Cloudy,64,E,23
+Sept,Night,329,NW,Poo,Clear Night,75,NNE,8
+Sept,Night,246,SW,Pee,Clear Night,70,NE,7
+Oct,Night,235,SW,Pee,Cloudy,72,WSW,13
+Dec,Night,323,NW,Pee,Clear Night,41,SSE,15
+Dec,Night,206,SW,Pee,Clear Night,37,WSW,6
+Dec,Night,306,NW,Poo,Clear Night,37,WSW,6
+Sept,Night,257,W,Pee,Clear Night,70,S,9
+Dec,Night,75,NE,Poo,Clear Night,41,SSE,15
+Oct,Night,50,NE,Pee,Night with Clouds,72,still,0
+Dec,Night,255,W,Pee,Clear Night,63,N,10
+Oct,Night,253,W,Pee,Night with Clouds,71,SW,12
+Oct,Night,146,SE,Pee,Night with Clouds,71,SW,12
+Nov,Night,306,NW,Pee,Clear Night,45,N,7
+Sept,Night,46,NE,Pee,Cloudy,70,E,7
+Oct,Night,266,W,Pee,Night with Clouds,77,N,7
+Nov,Night,33,NE,Poo,Clear Night,45,N,7
+Dec,Night,237,SW,Pee,Night with Clouds,52,S,3
+Oct,Night,48,NE,Pee,Clear Night,61,SSE,7
+Nov,Night,352,N,Pee,Night with Clouds,63,N,8
+Nov,Night,288,W,Pee,Clear Night,48,NWN,3
+Oct,Night,302,NW,Poo,Clear Night,61,SSE,7
+Oct,Night,246,SW,Pee,Raining,68,SSE,7
+Oct,Night,52,NE,Pee,Night with Clouds,70,SW,14
+Nov,Night,276,W,Pee,Clear Night,54,S,6
+Oct,Night,321,NW,Pee,Night with Clouds,61,SSW,10
+Oct,Night,164,S,Pee,Clear Night,61,SE,10
+Oct,Night,216,SW,Poo,Night with Clouds,61,SSW,10
+Oct,Night,262,W,Pee,Night with Clouds,72,NNW,5
+Oct,Night,89,E,Pee,Night with Clouds,59,E,7
+Nov,Night,348,N,Pee,Clear Night,54,N,3
+Nov,Night,334,NW,Poo,Clear Night,54,N,3
+Nov,Night,241,SW,Pee,Clear Night,39,SSW,9
+Dec,Night,249,W,Pee,Night with Clouds,38,N,13
+Nov,Night,228,SW,Poo,Clear Night,39,SSW,9
+Apr,Night,248,SW,Pee,Night with Clouds,52,SW,14
+Apr,Night,143,SE,Pee,Night with Clouds,69,ENE,10
+Apr,Night,359,N,Pee,Night with Clouds,51,ESE,8
+Apr,Night,275,W,Pee,Night with Clouds,63,S,14
+May,Night,335,NW,Pee,Raining,68,N,6
+Apr,Night,166,SE,Pee,Night with Clouds,52,WSW,12
+May,Night,214,SW,Poo,Raining,68,N,6
+Apr,Night,104,SE,Pee,Raining,66,S,5
+Apr,Night,58,NE,Pee,Night with Clouds,62,WSW,10
+Apr,Night,215,SW,Pee,Night with Clouds,55,SSE,9
+May,Night,172,S,Pee,Night with Clouds,67,NW,5
+May,Night,85,E,Pee,Night with Clouds,70,W,3
+Mar,Night,99,E,Pee,Night with Clouds,52,WSW,8
+May,Night,353,N,Pee,Clear Night,80,N,8
+Apr,Night,211,SW,Pee,Night with Clouds,57,NNW,8
+May,Night,282,NW,Pee,Clear Night,63,WSW,5
+Apr,Night,175,S,Poo,Night with Clouds,63,S,14
+Apr,Night,72,NE,Pee,Night with Clouds,80,NNE,18
+May,Night,26,NE,Pee,Raining,71,S,17
+Mar,Night,33,NE,Pee,Night with Clouds,57,WSW,7
+Mar,Night,307,NW,Pee,Night with Clouds,45,ESE,15
+Mar,Night,316,NW,Pee,Night with Clouds,37,ESE,17
+Mar,Night,349,NW,Pee,Night with Clouds,44,still,0
+Apr,Night,55,NE,Pee,Raining,45,SSE,13
+May,Night,77,NE,Pee,Night with Clouds,65,SW,6
+May,Night,274,W,Pee,Night with Clouds,65,W,6
+May,Night,277,W,Pee,Night with Clouds,69,ESE,10
+May,Night,199,SW,Pee,Night with Clouds,75,SSE,14
+May,Night,129,SE,Pee,Night with Clouds,62,WSW,10
+May,Night,199,SW,Poo,Raining,71,S,17
+Apr,Night,198,SW,Pee,Night with Clouds,58,S,6
+May,Night,69,NE,Pee,Clear Night,71,WNW,8
+Jun,Night,234,SW,Pee,Night with Clouds,86,ENE,8
+May,Night,206,SW,Poo,Night with Clouds,67,NW,5
+Mar,Night,52,NE,Pee,Clear Night,61,still,0
+May,Night,73,NE,Pee,Night with Clouds,55,SW,5
+May,Night,268,W,Pee,Night with Clouds,62,WSW,10
+Mar,Night,1,N,Poo,Night with Clouds,57,WSW,7
+Apr,Night,179,S,Pee,Night with Clouds,51,SE,14
+May,Night,52,NE,Pee,Night with Clouds,82,N,10
+May,Night,227,SW,Pee,Night with Clouds,70,NNW,8
+May,Night,198,SW,Poo,Night with Clouds,55,SW,5
+Mar,Night,205,SW,Pee,Night with Clouds,65,SSE,15
+Mar,Night,228,SW,Pee,Night with Clouds,56,SSE,13
+Mar,Night,288,NW,Pee,Night with Clouds,70,N,23
+Apr,Night,137,SE,Pee,Night with Clouds,49,SSE,15
+May,Night,172,S,Pee,Night with Clouds,83,N,8
+Mar,Night,63,NE,Poo,Clear Night,61,still,0
+Apr,Night,282,NW,Poo,Night with Clouds,49,SSE,15
+Jun,Night,340,NW,Poo,Night with Clouds,86,ENE,8
+Apr,Night,180,S,Pee,Night with Clouds,47,ESE,14
+Apr,Night,192,SW,Pee,Raining,54,SW,13
+May,Night,188,S,Pee,Night with Clouds,67,WNW,10
+Mar,Night,264,W,Poo,Night with Clouds,56,SSE,13
+Apr,Night,308,NW,Pee,Night with Clouds,63,N,12
+Apr,Night,359,N,Pee,Night with Clouds,67,WSW,5
+May,Night,154,SE,Pee,Raining,67,SSW,3
+Mar,Night,271,W,Pee,Raining,52,SW,8
+Apr,Night,43,NE,Pee,Night with Clouds,63,N,7
+May,Night,116,SE,Pee,Night with Clouds,58,SW,7
+Apr,Night,281,NW,Poo,Night with Clouds,63,N,12
+Mar,Night,333,NW,Pee,Night with Clouds,59,NW,7
+Apr,Night,111,SE,Pee,Night with Clouds,54,still,0
+Apr,Night,128,SE,Pee,Night with Clouds,63,still,0
+Mar,Night,5,N,Poo,Raining,52,SW,8
+Mar,Night,222,SW,Pee,Night with Clouds,65,NW,10
+May,Night,53,N,Pee,Raining,49,S,20
+May,Night,119,SE,Pee,Raining,59,WSW,15
+May,Night,182,S,Pee,Raining,65,S,9
+Jun,Night,167,SE,Pee,Raining,74,NE,6
+May,Night,68,NE,Pee,Night with Clouds,69,NNW,7
+May,Night,252,SW,Pee,Night with Clouds,73,E,7
+Jun,Night,152,SE,Poo,Raining,74,NE,6
+May,Night,131,SE,Pee,Night with Clouds,68,SSW,3
+Mar,Night,152,SE,Pee,Night with Clouds,30,SE,21
+Apr,Night,266,W,Pee,Night with Clouds,61,SE,8
+May,Night,94,E,Pee,Night with Clouds,61,NNW,5
+Apr,Night,168,SE,Pee,Night with Clouds,54,SSE,21
+May,Night,248,SW,Pee,Night with Clouds,89,ENE,6
+Apr,Night,276,W,Pee,Night with Clouds,48,E,6
+Apr,Night,327,NW,Pee,Night with Clouds,56,NNW,8
+Apr,Night,143,SE,Pee,Night with Clouds,51,S,14
+Apr,Night,100,E,Poo,Night with Clouds,54,SSE,21
+May,Night,39,NE,Poo,Night with Clouds,89,ENE,6
+Apr,Night,180,S,Pee,Night with Clouds,58,WSW,8
+May,Night,87,E,Pee,Night with Clouds,65,NW,12
+May,Night,180,S,Pee,Night with Clouds,81,still,0
+May,Night,121,SE,Pee,Raining,72,N,6
+Apr,Night,120,SE,Pee,Clear Night,50,S,6
+Mar,Night,191,SW,Pee,Night with Clouds,47,NW,3
+Apr,Night,242,SW,Pee,Clear Night,64,W,9
+Dec,Night,300,NW,Pee,Clear Night,43,SE,14
+Feb,Night,146,SE,Pee,Night with Clouds,36,SSE,20
+Feb,Night,220,SW,Pee,Clear Night,27,SSW,10
+Jan,Night,159,SE,Pee,Night with Clouds,31,N,7
+Feb,Night,183,S,Pee,Clear Night,38,N,15
+Feb,Night,227,SW,Poo,Clear Night,27,SSW,10
+Feb,Night,340,NW,Pee,Night with Clouds,32,NNW,10
+Jan,Night,123,SE,Pee,Raining,39,S,15
+Feb,Night,142,SE,Pee,Night with Clouds,52,N,6
+Jan,Night,211,SW,Pee,Night with Clouds,37,WSW,12
+Jan,Night,192,SW,Pee,Clear Night,24,NNW,6
+Feb,Night,168,SE,Pee,Night with Clouds,33,W,3
+Feb,Night,193,SW,Pee,Night with Clouds,30,S,9
+Dec,Night,259,W,Pee,Clear Night,48,S,9
+Jan,Night,183,S,Pee,Night with Clouds,24,S,14
+Feb,Night,267,W,Pee,Night with Clouds,51,N,13
+Jan,Night,360,N,Poo,Night with Clouds,34,WSW,12
+Feb,Night,250,SW,Pee,Night with Clouds,39,still,0
+Mar,Night,90,E,Pee,Night with Clouds,74,ENE,15
+Jan,Night,163,SE,Pee,Night with Clouds,28,NNE,7
+Jan,Night,113,SE,Pee,Night with Clouds,31,S,17
+Feb,Night,229,SW,Pee,Night with Clouds,42,N,12
+Feb,Night,190,S,Poo,Night with Clouds,42,N,12
+Jan,Night,156,SE,Poo,Night with Clouds,31,S,17
+Dec,Night,294,NW,Pee,Clear Night,41,WSW,3
+Feb,Night,152,SE,Pee,Night with Clouds,66,NNE,26
+Jan,Night,195,SW,Pee,Night with Clouds,25,SW,7
+Jan,Night,151,SE,Pee,Night with Clouds,31,NW,7
+Jan,Night,173,S,Poo,Night with Clouds,25,SW,7
+Jan,Night,179,S,Pee,Clear Night,31,N,14
+Feb,Night,280,W,Pee,Night with Clouds,42,N,5
+Jan,Night,268,W,Pee,Night with Clouds,48,S,15
+Jan,Night,146,SE,Pee,Night with Clouds,29,still,0
+Jan,Night,190,S,Poo,Night with Clouds,29,still,0
+Jan,Night,184,S,Pee,Night with Clouds,50,NNE,8
+Jan,Night,205,SW,Poo,Night with Clouds,50,NNE,8
+Jan,Night,145,SE,Pee,Night with Clouds,35,still,0
+Feb,Night,255,SW,Pee,Night with Clouds,57,N,16
+Jan,Night,249,W,Pee,Clear Night,30,NW,7
+Jan,Night,117,SE,Poo,Night with Clouds,35,still,0
+Feb,Night,246,SW,Pee,Night with Clouds,59,N,17
+Mar,Night,129,SE,Pee,Night with Clouds,39,NNW,3
+Feb,Night,168,SE,Poo,Night with Clouds,59,N,17
+Dec,Night,228,SW,Pee,Raining,51,N,3
+Mar,Night,219,SW,Pee,Night with Clouds,64,SE,18
+Dec,Night,146,SE,Pee,Raining,49,S,6
+Jan,Night,135,SE,Pee,Night with Clouds,29,SW,5
+Jan,Night,102,SE,Pee,Night with Clouds,22,SW,10
+Jan,Night,264,W,Poo,Night with Clouds,22,SW,10
+Feb,Night,180,S,Pee,Night with Clouds,26,SSE,9
+Dec,Night,255,W,Pee,Night with Clouds,52,NW,7
+Jan,Night,254,SW,Pee,Night with Clouds,25,E,7
+Oct,Night,283,W,Pee,Night with Clouds,61,SSE,6
+Jan,Night,259,W,Pee,Raining,57,still,0
+Jan,Night,37,NE,Pee,Night with Clouds,37,SW,10
+Dec,Night,273,W,Pee,Clear Night,36,SSE,13
+Dec,Night,311,NW,Poo,Clear Night,36,SSE,13
+Dec,Night,252,W,Pee,Night with Clouds,61,E,8
+Dec,Night,70,NE,Pee,Night with Clouds,39,N,12
+Dec,Night,278,W,Pee,Night with Clouds,58,N,8
+Dec,Night,146,SE,Pee,Clear Night,39,N,12
+Dec,Night,326,NW,Poo,Clear Night,39,N,12
+Dec,Night,297,NW,Pee,Night with Clouds,34,N,7
+Dec,Night,243,SW,Pee,Night with Clouds,42,S,3
+Nov,Night,299,NW,Pee,Night with Clouds,51,N,3
+Dec,Night,252,W,Pee,Night with Clouds,45,still,0
+Dec,Night,253,W,Pee,Raining,48,N,5
+Oct,Night,318,NW,Poo,Raining,66,E,3
+Dec,Night,33,NE,Poo,Night with Clouds,45,still,0
+Oct,Night,15,N,Pee,Night with Clouds,68,NW,3
+Oct,Night,138,SE,Pee,Raining,66,E,3
+Oct,Night,331,N,Poo,Night with Clouds,68,NW,3
+Oct,Night,46,NE,Pee,Clear Night,63,NE,7
+Oct,Night,342,N,Poo,Clear Night,63,NE,7
+Dec,Night,146,SE,Pee,Night with Clouds,43,N,5
+Oct,Night,276,W,Pee,Raining,62,WSW,10
+Nov,Night,257,W,Pee,Raining,50,NNE,9
+Oct,Night,277,W,Pee,Night with Clouds,53,SE,15
+Dec,Night,236,SW,Pee,Raining,38,S,3
+Nov,Night,311,NW,Poo,Raining,50,NNE,9
+Oct,Night,368,W,Pee,Night with Clouds,66,N,5
+Dec,Night,248,W,Pee,Night with Clouds,33,SSE,10
+Nov,Night,357,N,Pee,Night with Clouds,45,SSW,6
+Nov,Night,353,N,Poo,Night with Clouds,45,SSW,6
