@@ -11,10 +11,9 @@
 - The output map can be found [here](https://dgonzales8096.github.io/Dennis_Gonzales_Project_html_files/Yelp_biz_map.html)
 
 
-#### Univariate Machine Learning Model: Predicting Dog Direction Project Overview
+#### [Machine Learning Model: Predicting Dog Direction Project Overview] (https://github.com/dgonzales8096/Dennis_Gonzales_Project_Portfolio/blob/7a919e39232d17e6a119bf33f69496b35e81cbda/Tooterfish_PooPee.ipynb)
 
 - Idealized from this study [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Ffrontiersinzoology.biomedcentral.com%2Ftrack%2Fpdf%2F10.1186%2F1742-9994-10-80.pdf&clen=1493799&chunk=true) finding dogs' sensitivity to Earth's magnetic field.
 - This project focuses on predicting the direction my dog (Tooterfish) will be facing each time he uses the restroom based on collected data.
 - Features include time of day, directional degree, weather condition, and temperature.
 - Tooterfish habitually uses the restroom in the same 15 square foot area in a park close to our apartment, therefore only one set of latitude and longitude will be considered.
-- Data is currently being collected for this project.
