@@ -12,6 +12,7 @@
 
 
 #### [Machine Learning Model: Predicting Dog Direction Project Overview](https://github.com/dgonzales8096/Dennis_Gonzales_Project_Portfolio/blob/7a919e39232d17e6a119bf33f69496b35e81cbda/Tooterfish_PooPee.ipynb)
+See my article--and a picture of my dog Tooterfish-- [here](https://www.linkedin.com/pulse/using-machine-learning-predict-direction-my-dog-does-his-gonzales/?trackingId=y6rPKr5GgtO%2FgMS2tuY%2Fzg%3D%3D)
 
 - Idealized from this study [here](https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/1742-9994-10-80.pdf) finding dogs' sensitivity to Earth's magnetic field.
 - This project focuses on predicting the direction my dog (Tooterfish) will be facing each time he uses the restroom based on collected data.
